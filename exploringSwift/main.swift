@@ -7,7 +7,7 @@
 
 import Foundation
 
-// Exploring swift Language [from variables to Functions]
+// objective: Explore swift Language [from variables to Classes and Dictionaries]
 
 // --------------- Variables ------------------
 
